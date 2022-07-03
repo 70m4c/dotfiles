@@ -1,0 +1,17 @@
+[user]
+  name = Томас
+  email = 70m4c@70m4c.su
+  signingKey = 810077DBD557537F5676897D3225A73CF13B533A
+
+[init]
+  defaultBranch = master
+
+[commit]
+  gpgSign = true
+
+[log]
+  showSignature = true
+
+[core]
+  editor = nvim
+
